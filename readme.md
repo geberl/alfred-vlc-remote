@@ -37,3 +37,5 @@
 
 - [Alfred](https://www.alfredapp.com/)
 - [VLC](https://www.videolan.org/)
+- [Repository on GitLab](https://gitlab.com/geberl/alfred-vlc-remote-control)
+- [Thread on the official Alfred forums](TODO)
