@@ -34,7 +34,10 @@
 
 ## Screenshots
 
-- TODO
+![Basic usage](https://gitlab.com/geberl/alfred-vlc-remote-control/raw/master/images/screenshot_basic.png)
+![Autocomplete](https://gitlab.com/geberl/alfred-vlc-remote-control/raw/master/images/screenshot_autocomplete.png)
+![Workflow Editor](https://gitlab.com/geberl/alfred-vlc-remote-control/raw/master/images/screenshot_workflow.png)
+![Remote Screen](https://gitlab.com/geberl/alfred-vlc-remote-control/raw/master/images/screenshot_remote.png)
 
 ## Links
 
