@@ -48,5 +48,7 @@
 - [VLC](https://www.videolan.org/)
 - [Repository on GitLab](https://gitlab.com/geberl/alfred-vlc-remote-control)
 - [Thread on the official Alfred forums](https://www.alfredforum.com) TODO there is no thread yet
+- [Corresponding page on Packal.org](http://www.packal.org/) TODO there is no page yet
 - [jeroenbegyn's AppleScript to control VLC (the inspiration for my Alfred workflow](https://github.com/jeroenbegyn/VLCControl)
 - [How to find out which functions of an application are scriptable via AppleScript](https://www.safaribooksonline.com/library/view/applescript-the-definitive/0596102119/ch01s02.html)
+- [Clicky Steve's Alfred VLC workflow (I used his approach for subs and audio delay)](http://www.packal.org/workflow/vlc-remote-control)
