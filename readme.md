@@ -30,6 +30,9 @@
     - **volup** to decrease the volume by one increment (of 32)
     - **volmax** to put VLC's volume at its maximum level (use with care)
     - **mute** to toggle mute
+    - **delayup** to increase audio delay by 50ms
+    - **delaydown** to decrease audio delay by 50ms
+    - **subs** to toggle through the available subtitles
     - **quit** to quit VLC
 
 ## Screenshots
