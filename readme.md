@@ -10,8 +10,6 @@
 ## Installation
 
 - Just download `vlc_remote.alfredworkflow` and import it into your collection of Alfred workflows by double clicking it
-- Done
-
 - No settings need to be applied inside VLC since the workflow leverages AppleScript hooks
 - This is also the reason why there is no need to register vlc in the terminal
 - You don't need any of the images here if you don't want to change them
@@ -38,17 +36,22 @@
 ## Screenshots
 
 ![Basic usage](https://gitlab.com/geberl/alfred-vlc-remote-control/raw/master/images/screenshot_basic.png)
+
 ![Autocomplete](https://gitlab.com/geberl/alfred-vlc-remote-control/raw/master/images/screenshot_autocomplete.png)
+
 ![Workflow Editor](https://gitlab.com/geberl/alfred-vlc-remote-control/raw/master/images/screenshot_workflow.png)
+
 ![Remote Screen](https://gitlab.com/geberl/alfred-vlc-remote-control/raw/master/images/screenshot_remote.png)
 
 ## Links
 
 - [Alfred](https://www.alfredapp.com/)
 - [VLC](https://www.videolan.org/)
+
 - [Repository on GitLab](https://gitlab.com/geberl/alfred-vlc-remote-control)
 - [Thread on the official Alfred forums](https://www.alfredforum.com/topic/10027-vlc-remote/)
 - [Corresponding page on Packal.org](http://www.packal.org/) TODO there is no page yet, tried submitting it on 2017-02-16 and the page was broken
-- [jeroenbegyn's AppleScript to control VLC (the inspiration for my Alfred workflow](https://github.com/jeroenbegyn/VLCControl)
+
+- [jeroenbegyn's AppleScript to control VLC (the inspiration for my Alfred workflow)](https://github.com/jeroenbegyn/VLCControl)
 - [How to find out which functions of an application are scriptable via AppleScript](https://www.safaribooksonline.com/library/view/applescript-the-definitive/0596102119/ch01s02.html)
 - [Clicky Steve's Alfred VLC workflow (I used his approach for subs and audio delay)](http://www.packal.org/workflow/vlc-remote-control)
