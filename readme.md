@@ -35,20 +35,20 @@
 
 ## Screenshots
 
-![Basic usage](https://gitlab.com/geberl/alfred-vlc-remote-control/raw/master/images/screenshot_basic.png)
+![Basic usage](https://github.com/geberl/alfred-vlc-remote/blob/master/images/screenshot_basic.png)
 
-![Autocomplete](https://gitlab.com/geberl/alfred-vlc-remote-control/raw/master/images/screenshot_autocomplete.png)
+![Autocomplete](https://github.com/geberl/alfred-vlc-remote/blob/master/images/screenshot_autocomplete.png)
 
-![Workflow Editor](https://gitlab.com/geberl/alfred-vlc-remote-control/raw/master/images/screenshot_workflow.png)
+![Workflow Editor](https://github.com/geberl/alfred-vlc-remote/blob/master/images/screenshot_workflow.png)
 
-![Remote Screen](https://gitlab.com/geberl/alfred-vlc-remote-control/raw/master/images/screenshot_remote.png)
+![Remote Screen](https://github.com/geberl/alfred-vlc-remote/blob/master/images/screenshot_remote.png)
 
 ## Links
 
 - [Alfred](https://www.alfredapp.com/)
 - [VLC](https://www.videolan.org/)
 
-- [Repository on GitLab](https://gitlab.com/geberl/alfred-vlc-remote-control)
+- [Repository on GitHub](https://github.com/geberl/alfred-vlc-remote/)
 - [Thread on the official Alfred forums](https://www.alfredforum.com/topic/10027-vlc-remote/)
 - [Corresponding page on Packal.org](http://www.packal.org/) TODO there is no page yet, tried submitting it on 2017-02-16 and the page was broken
 
