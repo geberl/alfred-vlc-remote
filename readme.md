@@ -50,7 +50,6 @@
 
 - [Repository on GitHub](https://github.com/geberl/alfred-vlc-remote/)
 - [Thread on the official Alfred forums](https://www.alfredforum.com/topic/10027-vlc-remote/)
-- [Corresponding page on Packal.org](http://www.packal.org/) TODO there is no page yet, tried submitting it on 2017-02-16 and the page was broken
 
 - [jeroenbegyn's AppleScript to control VLC (the inspiration for my Alfred workflow)](https://github.com/jeroenbegyn/VLCControl)
 - [How to find out which functions of an application are scriptable via AppleScript](https://www.safaribooksonline.com/library/view/applescript-the-definitive/0596102119/ch01s02.html)
